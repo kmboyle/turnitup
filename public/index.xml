@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>TURN IT UP</title>
+    <link>https://turnitup.github.io/</link>
+    <description>Recent content on TURN IT UP</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Fri, 24 May 2024 16:46:43 +0000</lastBuildDate>
+    <atom:link href="https://turnitup.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>That Could Be Something</title>
+      <link>https://turnitup.github.io/posts/that-could-be-something/</link>
+      <pubDate>Fri, 24 May 2024 16:46:43 +0000</pubDate>
+      <guid>https://turnitup.github.io/posts/that-could-be-something/</guid>
+      <description>That Could Be Something Listen:&#xA;That Could Be Something</description>
+    </item>
+  </channel>
+</rss>
