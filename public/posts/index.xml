@@ -2,25 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on TURN IT UP</title>
-    <link>https://turnitup.github.io/posts/</link>
+    <link>http://192.168.4.77:1313/posts/</link>
     <description>Recent content in Posts on TURN IT UP</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 25 May 2024 21:07:18 +0000</lastBuildDate>
-    <atom:link href="https://turnitup.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 01 Jun 2024 18:56:01 +0000</lastBuildDate>
+    <atom:link href="http://192.168.4.77:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>P4</title>
+      <link>http://192.168.4.77:1313/posts/p4/</link>
+      <pubDate>Sat, 01 Jun 2024 18:56:01 +0000</pubDate>
+      <guid>http://192.168.4.77:1313/posts/p4/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://turnitup.blob.core.windows.net/tunes/P4.mp3&#34;&gt;P4&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
     <item>
       <title>One Big Nut</title>
-      <link>https://turnitup.github.io/posts/one-big-nut/</link>
+      <link>http://192.168.4.77:1313/posts/one-big-nut/</link>
       <pubDate>Sat, 25 May 2024 21:07:18 +0000</pubDate>
-      <guid>https://turnitup.github.io/posts/one-big-nut/</guid>
-      <description>One Big Nut Listen:&#xA;One Big Nut</description>
+      <guid>http://192.168.4.77:1313/posts/one-big-nut/</guid>
+      <description>&lt;h1 id=&#34;one-big-nut&#34;&gt;One Big Nut&lt;/h1&gt;&#xA;&lt;p&gt;Listen:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://turnitup.blob.core.windows.net/tunes/One%20Big%20Nut.mp3&#34;&gt;One Big Nut&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>That Could Be Something</title>
-      <link>https://turnitup.github.io/posts/that-could-be-something/</link>
+      <link>http://192.168.4.77:1313/posts/that-could-be-something/</link>
       <pubDate>Fri, 24 May 2024 16:46:43 +0000</pubDate>
-      <guid>https://turnitup.github.io/posts/that-could-be-something/</guid>
-      <description>That Could Be Something Listen:&#xA;That Could Be Something</description>
+      <guid>http://192.168.4.77:1313/posts/that-could-be-something/</guid>
+      <description>&lt;h1 id=&#34;that-could-be-something&#34;&gt;That Could Be Something&lt;/h1&gt;&#xA;&lt;p&gt;Listen:&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://turnitup.blob.core.windows.net/tunes/That%20could%20be%20something.mp3&#34;&gt;That Could Be Something&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
