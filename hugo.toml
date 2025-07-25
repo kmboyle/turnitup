@@ -1,0 +1,4 @@
+baseURL = 'https://idcrisisnc.com'
+languageCode = 'en-us'
+title = 'Identity Crisis Music'
+theme = 'ananke'
